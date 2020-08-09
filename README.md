@@ -1,3 +1,3 @@
 # covid-19-react-deploy
 
-[visie live](bit.ly/30DbIaq)
+[visie live](https://bit.ly/30DbIaq)
